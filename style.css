@@ -217,7 +217,7 @@ ul li a:hover::after {
 
 .card-balance {
     position: relative;
-    top: 12em;
+    top: 2em;
     transform: rotate(-5deg);
     width: 300px;
     height: 100px;
